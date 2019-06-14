@@ -12,8 +12,8 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-- [Problem Statement](#problem_statement)
+## 📝 Tabla de contenidos
+- [Wordpress](#wordpress)
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
@@ -24,7 +24,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
+## 🧐 Problem Statement <a name = "wordpress"></a>
 It is useful to design and follow a specific format when writing a problem statement. While there are several options
 for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
 focus on defining the problem.
