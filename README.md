@@ -24,8 +24,11 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## 🧐 Problem Statement <a name = "wordpress"></a>
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
+## 🧐 Wordpress <a name = "wordpress"></a>
+Alternativas diferentes, existen en el mundo de la administracion de contenido, entre ellas esta, <a href="https://wordpress.com/">Wordpress</a>.
+
+Wordpress es un sistema de administracion de contenido orientado a la administracion de blogs. Generalmente usado para mas que solo blogs, es un sistema que integra diversas areas del desarrollo web y extendible con sus sistema de <a href="https://wordpress.org/plugins/">plugins</a>.
+
 for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
 focus on defining the problem.
 
