@@ -4,17 +4,7 @@
   <a href="" rel="noopener">
  <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwpexpert.ca%2Fwp-content%2Fuploads%2FScreen-Shot-2017-07-13-at-21.26.55.png&f=1" alt="Project logo"></a>
 </p>
-<h3 align="center">Project Title</h3>
-
-<div align="center">
-
-  [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com) 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-
-</div>
+<h3 align="center">Documentacion de posts para Edublog</h3>
 
 ---
 
