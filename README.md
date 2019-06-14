@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwpexpert.ca%2Fwp-content%2Fuploads%2FScreen-Shot-2017-07-13-at-21.26.55.png&f=1" alt="Project logo"></a>
 </p>
 <h3 align="center">Project Title</h3>
 
