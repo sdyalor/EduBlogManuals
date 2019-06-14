@@ -14,7 +14,7 @@
 
 ## 📝 Tabla de contenidos
 - [Wordpress](#wordpress)
-- [Idea / Solution](#idea)
+- [Divi Builder](#divi_builder)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
 - [Setting up a local environment](#getting_started)
@@ -38,7 +38,7 @@ This includes costs associated with loss of money, time, productivity, competiti
 Following this format will result in a workable document that can be used to understand the problem and elicit
 requirements that will lead to a winning solution. 
 
-## 💡 Idea / Solution <a name = "idea"></a>
+## 💡 Idea / Solution <a name = "divi_builder"></a>
 This section is used to describe potential solutions. 
 
 Once the ideal, reality, and consequences sections have been 
