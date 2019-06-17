@@ -15,7 +15,7 @@
 ## 📝 Tabla de contenidos
 - [Wordpress](#wordpress)
 - [Divi Builder](#divi_builder)
-- [Dependencies / Limitations](#limitations)
+- [Dependencias / Limitaciones](#limitations)
 - [Future Scope](#future_scope)
 - [Setting up a local environment](#getting_started)
 - [Usage](#usage)
@@ -29,73 +29,73 @@ Alternativas diferentes, existen en el mundo de la administracion de contenido, 
 
 Wordpress es un sistema de administracion de contenido orientado a la administracion de blogs. Generalmente usado para mas que solo blogs, es un sistema que integra diversas areas del desarrollo web y extendible con sus sistema de <a href="https://wordpress.org/plugins/">plugins</a>.
 
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+Leer mas: <a href="https://wordpress.org/">https://wordpress.org/</a>
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section 
-should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product. 
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
+## 💡 Divi Builder <a name = "divi_builder"></a>
 
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution. 
+<a href="https://www.elegantthemes.com/gallery/divi/">Divi</a> builder es un maquetador de paginas web, su funcion es crear un <a href="https://wordpress.org/themes/browse/featured/">Tema</a> de wordpress personalizado.
 
-## 💡 Idea / Solution <a name = "divi_builder"></a>
-This section is used to describe potential solutions. 
+Construir un sitio web desde 0 es algo complejo pero las herramientas que nos provee divi aceleran el proceso de diseño y Maquetación.
 
-Once the ideal, reality, and consequences sections have been 
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+Leer mas: <a href="https://www.elegantthemes.com/gallery/divi/">https://www.elegantthemes.com/gallery/divi/</a>
 
-## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-- What are the dependencies of your project?
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if 
-appropriate, describe how these limitations could point to the need for further research.
+<h3> Panel de adminstracion: <a href="educlook.com/wp-admin">educlook.com/wp-admin</a></h3>
+<img src="https://s3.amazonaws.com/cache.educlook.com/wp-login.PNG">
+<p>Figura 1. Login de educlook. En esta imagen se muestra el login del panel de administracion del sitio web: educlook.com </p>
 
-## 🚀 Future Scope <a name = "future_scope"></a>
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve 
-in the future.
+Para ingresar al panel de administracion introdusca sus credenciales.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development 
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+<h3> Registro de posts</h3>
+<img src="https://s3.amazonaws.com/cache.educlook.com/wp-post.PNG">
+<p>Figura 2. Listado de Articulos, paginas como post. En esta imagen se muestra el listado de todos los articulos como posts,</p>
 
-### Prerequisites
+Para agregar un nuevo post debe de hacer clic en el <b> Panel > Entradas > Anadir nueva</b>
 
-What things you need to install the software and how to install them.
+<h3> Creacion de post</h3>
+<img src="https://s3.amazonaws.com/cache.educlook.com/wp-newpost.PNG">
+<p>Figura 3. Nuevo post. En esta imagen se muestra la interface de configuracion de nuevos posts con Divi</p>
+
+Para la creacion de posts necesitamos configurar:
+
+- [Titulo del articulo](#article_title)
+- [Url del articulo](#article_url)
+- [Categorias](#article_cat)
+- [Imagen de miniatura del articulo](#article_min_image)
+- [Ajustes de pagina de Divi](#article_adjustments)
+- [Yoast SEO](#article_seo)
+
+
+### ✍️ Titulo del articulo <a name = "article_title">
+
+Apelando a su creatividad, el titulo debe de contener palabras clave de indexado de informacion. 
+<img src="https://s3.amazonaws.com/cache.educlook.com/divi-title.PNG">
+Figura 3. Titulo de articulo. En esta imagen se muestra el titulo del articulo destacado.
+
+Este titulo se muestra en la <a href="educlook.com/edublog">pagina de articulos</a> y como un Header (titulo en negritas) inicialmente en la pagina individual del articulo.
+```
+Nota: Guardar la pagina hasta este punto, para esto se debe de publicar el avance. 
+  Publicar = Guardar
+```
+<img src="https://s3.amazonaws.com/cache.educlook.com/divi-publicar.PNG">
+Figura 4. Guardar cambios en la pagina de configuracion. En esta imagen se muestra un titulo=Titulo y una previsualizacion de enlace permanente sin categoria (no recomendado), leer <a name = "Categorias">Categorias</a>
+
+### ‍🏳 Url del articulo <a name = "article_url">
+ 
+Por defecto la url del articulo se compone en funcion al titulo introducido anteriormente, pero esta se puede modificar.
+
 
 ```
-Give examples
+Es recomendado Agregar una categoria entes de Guardar la pagina de configuracion.
 ```
+### 🐈 Categorias <a name = "article_cat">
+### 🙌‍ Imagen de miniatura del articulo <a name = "article_min_image">
+### 🤷‍ Ajustes de pagina de Divi <a name = "article_adjustments">
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
-## ⛏️ Built With <a name = "tech_stack"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
+✍️
 ## ✍️ Authors <a name = "authors"></a>
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
