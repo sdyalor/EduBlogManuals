@@ -15,8 +15,9 @@
 ## 📝 Tabla de contenidos
 - [Wordpress](#wordpress)
 - [Divi Builder](#divi_builder)
-- [Dependencias / Limitaciones](#limitations)
-- [Future Scope](#future_scope)
+  - [Registro de Post](#post_reg)
+
+
 - [Setting up a local environment](#getting_started)
 - [Usage](#usage)
 - [Technology Stack](#tech_stack)
@@ -45,9 +46,10 @@ Leer mas: <a href="https://www.elegantthemes.com/gallery/divi/">https://www.eleg
 
 Para ingresar al panel de administracion introdusca sus credenciales.
 
-<h3> Registro de posts</h3>
+<h3> Registro de posts</h3><a name = "post_reg">
 <img src="https://s3.amazonaws.com/cache.educlook.com/wp-post.PNG">
 <p>Figura 2. Listado de Articulos, paginas como post. En esta imagen se muestra el listado de todos los articulos como posts,</p>
+
 
 Para agregar un nuevo post debe de hacer clic en el <b> Panel > Entradas > Anadir nueva</b>
 
@@ -79,16 +81,36 @@ Nota: Guardar la pagina hasta este punto, para esto se debe de publicar el avanc
 <img src="https://s3.amazonaws.com/cache.educlook.com/divi-publicar.PNG">
 Figura 4. Guardar cambios en la pagina de configuracion. En esta imagen se muestra un titulo=Titulo y una previsualizacion de enlace permanente sin categoria (no recomendado), leer <a name = "Categorias">Categorias</a>
 
+### 🐈 Categorias <a name = "article_cat">
+
+La categoria por defecto es edublog, esta contiene la configuracion de url, entonces si una pagina se encuentra en esta categoria, aparte de ser integrarla, su url sera de la forma.
+```
+https://educlook.com/eduglog/titulo-configurado
+```
+
+<img src="https://s3.amazonaws.com/cache.educlook.com/divi-title-category-url.PNG">
+Figura 5. Configuracion de Categoria y previsualizacion de URL. En esta imagen se muestra la previsualizacion de la url con el titulo=Titulo, con la categoria seleccionada, <b>Edublogs</b>.
+
+
 ### ‍🏳 Url del articulo <a name = "article_url">
  
 Por defecto la url del articulo se compone en funcion al titulo introducido anteriormente, pero esta se puede modificar.
 
+Una vez o antes de guardar la pagina de configuracion
+
 
 ```
-Es recomendado Agregar una categoria entes de Guardar la pagina de configuracion.
+Es recomendado Agregar una categoria antes de Guardar la pagina de configuracion.
 ```
-### 🐈 Categorias <a name = "article_cat">
 ### 🙌‍ Imagen de miniatura del articulo <a name = "article_min_image">
+
+La representacion grafica del articulo. La imagen de miniatura es la que resaltara en la pagina de blogs y sera la primera impresion del usuario.
+
+El nombre de archivo de la imagen debe de ser descriptivo y relacionado al contenido del articulo.
+
+<img src="https://s3.amazonaws.com/cache.educlook.com/divi-image.PNG">
+
+
 ### 🤷‍ Ajustes de pagina de Divi <a name = "article_adjustments">
 
 
