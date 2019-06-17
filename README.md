@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> En esta guia se encuentra la configuracion basica de una publicacion de wordpress y divi para edublogs.
     <br> 
 </p>
 
