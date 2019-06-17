@@ -15,15 +15,12 @@
 ## 📝 Tabla de contenidos
 - [Wordpress](#wordpress)
 - [Divi Builder](#divi_builder)
-  - [Registro de Post](#post_reg)
-
-
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
-- [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
+  - [Titulo del articulo](#article_title)
+  - [Url del articulo](#article_url)
+  - [Categorias](#article_cat)
+  - [Imagen de miniatura del articulo](#article_min_image)
+  - [Ajustes de pagina de Divi](#article_adjustments)
+  - [Yoast SEO](#article_seo)
 
 ## 🧐 Wordpress <a name = "wordpress"></a>
 Alternativas diferentes, existen en el mundo de la administracion de contenido, entre ellas esta, <a href="https://wordpress.com/">Wordpress</a>.
@@ -46,7 +43,7 @@ Leer mas: <a href="https://www.elegantthemes.com/gallery/divi/">https://www.eleg
 
 Para ingresar al panel de administracion introdusca sus credenciales.
 
-<h3> Registro de posts</h3><a name = "post_reg">
+## Registro de posts <a name = "post_reg">
 <img src="https://s3.amazonaws.com/cache.educlook.com/wp-post.PNG">
 <p>Figura 2. Listado de Articulos, paginas como post. En esta imagen se muestra el listado de todos los articulos como posts,</p>
 
