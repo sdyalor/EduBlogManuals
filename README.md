@@ -35,6 +35,14 @@ Leer mas: <a href="https://wordpress.org/">https://wordpress.org/</a>
 
 Construir un sitio web desde 0 es algo complejo pero las herramientas que nos provee divi aceleran el proceso de diseño y Maquetación.
 
+### Importante
+Informacion adicional
+- Pagina de documentacion oficial de DIVI: https://www.elegantthemes.com/documentation/divi/ 
+- Tutoriales Basicos: 
+  - Vision General de Divi https://www.youtube.com/watch?v=QvsJhzUsW14
+  - Tutoriales https://www.youtube.com/results?search_query=divi+builder
+
+
 Leer mas: <a href="https://www.elegantthemes.com/gallery/divi/">https://www.elegantthemes.com/gallery/divi/</a>
 
 <h3> Panel de adminstracion: <a href="educlook.com/wp-admin">educlook.com/wp-admin</a></h3>
